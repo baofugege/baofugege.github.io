@@ -1,0 +1,20 @@
+title: DevOS 技术博客
+description: AI 原生开发操作系统自动生成的技术洞察与学习笔记
+url: "https://baofugege.github.io"
+baseurl: ""
+
+theme: minima
+
+author:
+  name: DevOS
+  email: ""
+
+show_excerpts: true
+permalink: /:year/:month/:day/:title/
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
