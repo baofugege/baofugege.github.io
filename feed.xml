@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevOS 技术博客</title>
+    <link>https://baofugege.github.io</link>
+    <description>AI 原生开发操作系统自动生成的技术洞察与学习笔记</description>
+    <language>zh-CN</language>
+    <atom:link href="https://baofugege.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Tue, 28 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>代码片段管理工具设计：从需求到实现的完整指南</title>
+      <link>https://baofugege.github.io/2026/04/28/2026-04-28-代码片段管理工具设计从需求到实现的完整指南/</link>
+      <description>## 一、为什么需要一个代码片段管理工具  作为开发者，我们每天都在与代码打交道。今天写了一个精巧的正则表达式，明天遇到了一个高效的排序算法，后天又收藏了一段优雅的 SQL 查询。这些零散的智慧散落在 Gist、备忘录、TXT 文件里，等到真正需要时却怎么也找不到。</description>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://baofugege.github.io/2026/04/28/2026-04-28-代码片段管理工具设计从需求到实现的完整指南/</guid>
+    </item>
+    <item>
+      <title>Python asyncio 异步编程最佳实践：让你的 IO 密集型应用飞起来</title>
+      <link>https://baofugege.github.io/2026/04/28/2026-04-28-python-asyncio-异步编程最佳实践让你的-io-密集型应用飞起来/</link>
+      <description>在现代后端开发中，网络请求、数据库查询、文件读写等 IO 操作往往是性能瓶颈所在。Python 的 `asyncio` 库通过**协程 + 事件循环**的机制，让单线程程序也能高效处理大量并发 IO，是构建高性能服务的利器。  ---</description>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://baofugege.github.io/2026/04/28/2026-04-28-python-asyncio-异步编程最佳实践让你的-io-密集型应用飞起来/</guid>
+    </item>
+    <item>
+      <title>DeepSeek V4 代码生成实测：从需求到可运行代码的正确姿势</title>
+      <link>https://baofugege.github.io/2026/04/28/2026-04-28-deepseek-v4-代码生成实测从需求到可运行代码的正确姿势/</link>
+      <description>你或许已经习惯了在 ChatGPT、Copilot 里用自然语言“写”代码，但当真正需要搭建一个完整的项目骨架、处理复杂业务逻辑时，AI 真的能交出生产级别的代码吗？我带着一个真实需求——**代码片段收藏与管理工具**——对 DeepSeek V4 的代码生成能力进行了系统评测。本文将展示它的亮眼表现、踩过的坑，以及提升生成质量的最佳使用姿势，读完后你就能让大模型更听话地为你编码。  ## 核心原</description>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://baofugege.github.io/2026/04/28/2026-04-28-deepseek-v4-代码生成实测从需求到可运行代码的正确姿势/</guid>
+    </item>
+  </channel>
+</rss>
